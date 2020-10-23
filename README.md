@@ -25,4 +25,4 @@ Here's a walkthrough of log in and feed view:
 <img src='http://g.recordit.co/cO042HlnPy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Here's a walkthrough of sign up and post:
-<img src='http://g.recordit.co/x8oTF3kyXJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/6z3iZns1s2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
